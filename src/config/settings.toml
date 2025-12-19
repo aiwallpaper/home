@@ -58,7 +58,7 @@ emoji = "⏰"
 description = "Timers can be used to track how much you meditate."
 
 [header.banner]
-show = true
+show = false
 text = "Follow mark_bruderer on twitter."
 link = "https://x.com/intent/follow?screen_name=mark_bruderer"
 brandText = "AI Agent Libraries"
